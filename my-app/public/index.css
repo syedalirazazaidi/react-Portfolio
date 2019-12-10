@@ -1,0 +1,22 @@
+@font-face {
+font-family: 'Gupter', serif;
+src : url(assets/roboto-condensed.light.ttf);
+font-family: 800;
+} 
+@font-face{
+    font-family: 'EconomicalBold';
+    src :url(assets/economica-bold.ttf)
+}
+ 
+ body {
+    text-align: center;
+    font-size: 20px;
+    padding: 2.5%;
+    font-family: 'RobotoCondensed';
+}
+.profile{
+    width : 200px;
+    height : 200px;
+    border-radius : 100px
+
+}
